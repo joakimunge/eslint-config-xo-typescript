@@ -3,11 +3,11 @@
 	"version": "0.8.0",
 	"description": "ESLint shareable config for TypeScript to be used with eslint-config-xo",
 	"license": "MIT",
-	"repository": "xojs/eslint-config-xo-typescript",
+	"repository": "joakimunge/eslint-config-xo-typescript",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"name": "Joakim Unge",
+		"email": "hello@joakimunge.se",
+		"url": "joakimunge.github.io"
 	},
 	"engines": {
 		"node": ">=6"
