@@ -92,7 +92,7 @@ module.exports = {
 		indent: 'off',
 		'@typescript-eslint/indent': [
 			'error',
-			'tab',
+			'2',
 			{
 				SwitchCase: 1
 			}
